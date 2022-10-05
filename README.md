@@ -1,3 +1,3 @@
 # TestForLTP
 
-It is a first test merge;
+Now I'm changing the readme
